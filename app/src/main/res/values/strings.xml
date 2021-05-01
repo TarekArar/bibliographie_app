@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BibloGraphie</string>
+
+
+    <string name="hitler">Adolf Hitler</string>
+    <string name="salahAugrout">Salah Aougrout</string>
+    <string name="boutef">Abdelaziz Bouteflika</string>
+    <string name="boutef_description">Abdelaziz Bouteflika , né le 2 mars 1937 à Oujda (Maroc), est un homme d\'État algérien, président de la République algérienne démocratique et populaire du 27 avril 1999 au 2 avril 2019.Engagé dans l\'Armée de libération nationale (ALN) pendant la guerre d\'Algérie, membre du clan d\'Oujda, il se lie avec Houari Boumédiène, sous l\'égide duquel il progresse rapidement dans l\'appareil administratif de l\'« armée des frontières ».</string>
+
+
+
+
+
+    <string name="hitler_description">Adolf Hitler a bouleversé l’histoire du XXe siècle. Autodidacte et orateur Brillant, il a répandu son idéologie nazie dans toute l’Allemagne. Chef du parti nazi à partir de 1921, nommé chancelier en 1933, sa dictature a été instaurée à partir de 1934, époque où il est devenu le "Führer". Face à sa politique militaire d’annexion de territoires, la Seconde Guerre mondiale est devenue inévitable. Comme il l’avait annoncé dans son livre Mein Kampf, il a mis en place la "Solution finale" destinée à l’extermination des Juifs. 6 millions de personnes ont trouvé la mort dans les camps de concentration (Juifs, Tsiganes, homosexuels, handicapés).</string>
+    <string name="salah_description">Fils d\'athlète, il décide très tôt de faire du théâtre, d\'abord à titre amateur; les téléspectateurs Algériens vont le connaître dans une comédie musicale qui s\'appelle Dja L\'Maa. Il fera par la suite du théâtre à titre professionnel. Il rejoint une troupe de théâtre à Blida où il se fait repérer par un réalisateur qui lui offre son tout premier rôle dans un film qui a pour titre Carnaval fi Dachra. Il apparait ensuite dans le film Dhaouaher wa Souloukat. Depuis, l\'acteur enchaîne sketches télévisés, spectacles2. Avant 2004 il participe à plusieurs séries comme Dhik fel Kloub… En 2004 et en 2005 il joue dans Nass Mlah City En 2006 il joue dans Binatna </string>
+
+    <string name="cancel">Fermer</string>
+    <string name="choose_language">choisir un lange</string>
+    <string name="benladen">Oussama ben Laden</string>
+    <string name="benladen_description">Oussama ben Laden (en arabe : أسامة بن محمد بن عوض بن لادن (Usāma bin Muḥammad bin ‘Awaḍ bin Lādin))Note 1, né le 10 mars 1957 à Riyad (Arabie saoudite) et mort le 2 mai 2011 à Abbottabad (Pakistan) tué par les forces spéciales américaines, est un djihadiste saoudien puis apatrideNote 2. Membre d\'une famille d\'origine yéménite proche de la famille royale saoudienne3, ayant fait ses premières armes contre l\'URSS pendant la guerre d\'Afghanistan (1979–1989)4, il est le chef du réseau terroriste Al-QaïdaNote 3. Il est responsable des attentats du 11 septembre 2001 commis aux États-Unis, qu’il a revendiqués à plusieurs reprises.</string>
+</resources>
