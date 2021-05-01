@@ -88,7 +88,7 @@ class MainActivity : AppCompatActivity() {
     private fun getArrayPerson()  = listOf(
         Person(R.string.hitler , R.string.hitler_description,"https://www.francetvinfo.fr/pictures/yhv_UhWJRbWhqG4JxTTBkWNnsFE/1200x900/2019/04/12/adolf_hitler_-_1933_-_sipa.jpg") ,
         Person(R.string.salahAugrout , R.string.salah_description,"https://static.ennaharonline.com/wp-content/uploads/fly-images/935528/-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-1500x9999-c.jpg") ,
-        Person(R.string.benladen , R.string.benladen_description,"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Osama_bin_Laden_portrait.jpg/280px-Osama_bin_Laden_portrait.jpg") ,
+        Person(R.string.benzema , R.string.benzema_description,"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/CSKA-RM18_%2811%29.jpg/420px-CSKA-RM18_%2811%29.jpg") ,
         Person(R.string.boutef , R.string.boutef_description,"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Abdelaziz_Bouteflika_casts_his_ballot_in_May_10th%27s_2012_legislative_election_%28cropped%29.jpg/220px-Abdelaziz_Bouteflika_casts_his_ballot_in_May_10th%27s_2012_legislative_election_%28cropped%29.jpg") ,)
 
     private fun getRandomPerson() : Person {
